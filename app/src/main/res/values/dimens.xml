@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pad8">8dp</dimen>
+    <dimen name="pad64">64dp</dimen>
+    <dimen name="pad36">36dp</dimen>
+    <dimen name="text24">24sp</dimen>
+    <dimen name="pad0">0dp</dimen>
+    <dimen name="pad24">24dp</dimen>
+    <dimen name="pad12">12dp</dimen>
+</resources>
